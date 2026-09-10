@@ -1,12 +1,12 @@
-Automated News Category Classification using NLP
+**Automated News Category Classification using NLP**
 
 An AI application that automatically classifies news articles into topic categories (Politics, Sports, Business, Entertainment, Science, Travel) from their headline and short description, using TF-IDF + Logistic Regression as the primary model, benchmarked against Sentence-BERT embeddings.
 
-Business Problem
+**Business Problem
 
 Digital news publishers and aggregators process a high volume of articles daily. Manual categorisation by editors is slow, inconsistent, and doesn't scale as publication volume grows. Automating category assignment speeds up content organisation, search, and recommendation, while freeing editorial time for higher-value work.
 
-Dataset
+**Dataset
 Source: News Category Dataset (Misra, 2022)
 Original: 209,527 articles across 42 categories (headline, short description, category, author, date, link)
 Scope used: 6 categories — Politics, Sports, Business, Entertainment, Science, Travel
